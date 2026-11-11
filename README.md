@@ -216,7 +216,7 @@ All three AWS EC2 instances were successfully terminated after project completio
 **DevOps Engineer**
 
 - GitHub: [Irfan-devops1](https://github.com/Irfan-devops1)
-- **GitHub:** [Terraform Workspaces Project](https://github.com/Irfan-devops1/terraform-workspaces-project)
+- **GitHub Project Repository:** [Terraform Workspaces Project](https://github.com/Irfan-devops1/terraform-workspaces-project)
 
 ---
 
